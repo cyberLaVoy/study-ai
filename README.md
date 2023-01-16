@@ -2,7 +2,7 @@
 
 ### Movies
 
-https://letterboxd.com/cyberlavoy/list/ai-2/
+https://letterboxd.com/cyberlavoy/list/artificial-intelligence/
 
 https://en.wikipedia.org/wiki/List_of_artificial_intelligence_films
 
@@ -37,3 +37,18 @@ https://www.goodreads.com/review/list/155966085-lavoy?shelf=ai-fiction
 ### Research Papers
 
 https://www.sciencedirect.com/science/article/pii/S0004370221000862
+
+https://arxiv.org/abs/2003.13350
+
+https://arxiv.org/abs/1903.10404
+
+https://arxiv.org/abs/2002.06038
+
+https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf
+
+https://arxiv.org/abs/1810.12894
+
+https://www.researchgate.net/profile/Marco-Wiering/publication/236645821_Reinforcement_Learning_to_Train_Ms_Pac-Man_Using_Higher-order_Action-relative_Inputs/links/0deec518a22042f5d7000000/Reinforcement-Learning-to-Train-Ms-Pac-Man-Using-Higher-order-Action-relative-Inputs.pdf
+
+https://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf
+
