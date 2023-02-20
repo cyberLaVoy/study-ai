@@ -34,6 +34,8 @@ https://www.goodreads.com/review/list/155966085-lavoy?shelf=ai-non-fiction
 
 https://www.goodreads.com/review/list/155966085-lavoy?shelf=ai-fiction
 
+https://www.barnesandnoble.com/b/books/high-tech-and-hard-science-fiction/science-fiction-robots-artificial-intelligence/_/N-29Z8q8Z1821?Ns=P_Publication_Date%7C0
+
 ### Research Papers
 
 https://www.sciencedirect.com/science/article/pii/S0004370221000862
