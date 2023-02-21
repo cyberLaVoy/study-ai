@@ -38,17 +38,19 @@ https://www.barnesandnoble.com/b/books/high-tech-and-hard-science-fiction/scienc
 
 ### Research Papers
 
-https://www.sciencedirect.com/science/article/pii/S0004370221000862
+https://arxiv.org/abs/1706.03762
 
-https://arxiv.org/abs/2003.13350
-
-https://arxiv.org/abs/1903.10404
+https://arxiv.org/abs/1810.12894
 
 https://arxiv.org/abs/2002.06038
 
-https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf
+https://arxiv.org/abs/1903.10404
 
-https://arxiv.org/abs/1810.12894
+https://arxiv.org/abs/2003.13350
+
+https://www.sciencedirect.com/science/article/pii/S0004370221000862
+
+https://www.cmu.edu/dietrich/sds/docs/loewenstein/PsychofCuriosity.pdf
 
 https://www.researchgate.net/profile/Marco-Wiering/publication/236645821_Reinforcement_Learning_to_Train_Ms_Pac-Man_Using_Higher-order_Action-relative_Inputs/links/0deec518a22042f5d7000000/Reinforcement-Learning-to-Train-Ms-Pac-Man-Using-Higher-order-Action-relative-Inputs.pdf
 
