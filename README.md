@@ -38,6 +38,8 @@ https://www.barnesandnoble.com/b/books/high-tech-and-hard-science-fiction/scienc
 
 ### Research Papers
 
+https://arxiv.org/abs/2303.12712
+
 https://arxiv.org/abs/1706.03762
 
 https://arxiv.org/abs/1810.12894
